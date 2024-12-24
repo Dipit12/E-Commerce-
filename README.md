@@ -15,5 +15,6 @@ This project is a **static e-commerce website** built using only HTML and CSS. I
 
 To view and test the website locally:
 
-1. Clone the repository or download the project files:
-   git clone 
+1. Clone the repository or download the project files(Using HTTPS):
+   git clone https://github.com/Dipit12/E-Commerce-.git
+2. Run index.html
