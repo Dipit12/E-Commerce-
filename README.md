@@ -17,4 +17,4 @@ To view and test the website locally:
 
 1. Clone the repository or download the project files(Using HTTPS):
    git clone https://github.com/Dipit12/E-Commerce-.git
-2. Run index.html
+2. Open index.html file in your browser
